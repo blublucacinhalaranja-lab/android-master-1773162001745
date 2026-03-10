@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BanHammerCalculator</string>
+    <string name="ban_message">Você foi banido da calculadora permanentemente por fazer algo muito burro! Tente novamente em outra vida.</string>
+    <string name="clear_button">C</string>
+    <string name="delete_button">DEL</string>
+    <string name="equals_button">=</string>
+    <string name="plus_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="multiply_button">x</string>
+    <string name="divide_button">/</string>
+    <string name="dot_button">.</string>
+    <string name="zero_button">0</string>
+    <string name="one_button">1</string>
+    <string name="two_button">2</string>
+    <string name="three_button">3</string>
+    <string name="four_button">4</string>
+    <string name="five_button">5</string>
+    <string name="six_button">6</string>
+    <string name="seven_button">7</string>
+    <string name="eight_button">8</string>
+    <string name="nine_button">9</string>
+</resources>
